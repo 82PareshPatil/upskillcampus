@@ -88,7 +88,7 @@ Reduces unexpected failures and optimizes maintenance schedules. Trained and tes
 ## 📞 Contact
 
 👨‍💻 **Paresh Patil**  
-📧 Email: your.email@example.com  
+📧 Email: paresh2004patil@gmail.com 
 🔗 GitHub: [@82PareshPatil](https://github.com/82PareshPatil)
 
 ---
